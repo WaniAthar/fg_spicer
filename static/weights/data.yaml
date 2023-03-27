@@ -1,0 +1,14 @@
+names:
+- yoke222
+- yoke231
+- yoke238
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: mixing-of-fg-goods-jkl1v
+  url: https://universe.roboflow.com/spicerindia-21xuw/mixing-of-fg-goods-jkl1v/dataset/5
+  version: 5
+  workspace: spicerindia-21xuw
+test: ../test/images
+train: /content/datasets/mixing-of-fg-goods-5/train/images
+val: /content/datasets/mixing-of-fg-goods-5/valid/images
